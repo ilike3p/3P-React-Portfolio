@@ -1,9 +1,18 @@
-import "./App.css"
-import { Pages } from "./components/pages/Pages"
+//yarn install aos
+import AOS from "aos"
+import "aos/dist/aos.css"
 
-
-function App(){
-  return <><Pages/></>
+function App() {
+  //aos
+  useEffect(() => {
+    AOS.init()
+    AOS.refresh()
+  }, [])
+  return (
+    <>
+      <Pages />
+    </>
+  )
 }
 
-export default App;
+export default App
