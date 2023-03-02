@@ -1,4 +1,9 @@
-//yarn install aos
+import "./App.css"
+import { Pages } from "./components/pages/Pages"
+import { useEffect } from "react"
+
+//yarn installaos@next
+//aos
 import AOS from "aos"
 import "aos/dist/aos.css"
 
