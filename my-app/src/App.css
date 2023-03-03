@@ -129,7 +129,7 @@ section {
   position: absolute;
   top: 0;
   left: 0;
-  background-image: url("../public/images/home-bg.png");
+  background-image: url("../public/images/lascape.jpg");
   background-size: cover;
   background-attachment: fixed;
   z-index: -1;
@@ -203,7 +203,7 @@ section {
   position: relative;
 }
 .hero.counter::after {
-  background-image: url("../public/images/some-facts-bg.png");
+  background-image: url("../public/images/hoops.jpg");
   height: 50vh;
 }
 .counter h1 {
@@ -274,7 +274,7 @@ article .box:hover .overlay {
   text-align: center;
 }
 .testimonials::after {
-  background-image: url("../public/images/testimonials-bg.png");
+  background-image: url("../public/Me.png");
 }
 .testimonials .box {
   max-width: 60%;
@@ -365,7 +365,7 @@ footer i {
   }
 
   .hero::after {
-    background-image: url("../public/images/home-bg.png");
+    background-image: url("../public/images/lascape.jpg");
     background-size: cover;
     object-fit: cover;
     width: 100%;
