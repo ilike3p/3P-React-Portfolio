@@ -2,7 +2,6 @@ import React from "react"
 import { project } from "../data/dummydata"
 import CountUp from "react-countup"
 
-//yarn add react-countup
 
 export const Counter = () => {
   return (
