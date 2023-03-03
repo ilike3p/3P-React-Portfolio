@@ -1,8 +1,8 @@
 import "./App.css"
 import { Pages } from "./components/pages/Pages"
-import { useEffect } from "react"
+import React, { useEffect } from "react"
 
-//yarn installaos@next
+// installaos@next
 //aos
 import AOS from "aos"
 import "aos/dist/aos.css"
