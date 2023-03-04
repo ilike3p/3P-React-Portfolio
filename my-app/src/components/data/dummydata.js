@@ -32,11 +32,11 @@ export const navlink = [
 ]
 export const home = [
   {
-    text: "Hello, My Name is",
-    name: "Tray (3P) Pearce",
+    text: "Hello, I'm ",
+    name: "Tray Pearce",
     post: "Full Stack Developer",
-    design: "UI / UX DESIGNER",
-    desc: "Recent UCLA bootcamp graduate that has a passion for building dynamic and user-friendly web applications. I enjoy bringing creative designs to life",
+    design: "Web Developer",
+    desc: "Recent UCLA bootcamp graduate with a passion for building dynamic and user-friendly web applications. I enjoy bringing creative designs to life",
   },
 ]
 export const about = [
@@ -106,7 +106,7 @@ export const about = [
     {
       id: 4,
       icon: <PersonOutlined />,
-      num: "1446",
+      num: "500",
       title: "LIENS OF CODE",
     },
   ]
@@ -136,22 +136,23 @@ export const about = [
       id: 4,
       cover: "../images/port/port4.jpg",
       name: "Brand",
-      category: "marketing",
+      category: "Fullstack",
       title: "Brex Logo",
     },
     {
       id: 5,
       cover: "../images/port/port5.jpg",
       name: "Brand",
-      category: "design",
+      category: "Backend",
       title: "Brex Logo",
     },
     {
       id: 6,
       cover: "../images/port/port6.jpg",
       name: "Brand",
-      category: "development",
+      category: "Frontend",
       title: "Brex Logo",
+    
     },
   ]
   export const testimonials = [

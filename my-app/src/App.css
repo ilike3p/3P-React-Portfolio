@@ -274,7 +274,7 @@ article .box:hover .overlay {
   text-align: center;
 }
 .testimonials::after {
-  background-image: url("../public/Me.png");
+  background-image: url("../public/images/lascape.jpg");
 }
 .testimonials .box {
   max-width: 60%;
