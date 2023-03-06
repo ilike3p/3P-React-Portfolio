@@ -178,7 +178,7 @@ section {
   grid-gap: 30px;
 }
 
-/*---------services-------------*/
+/*---------skills-------------*/
 .services .box {
   background-color: var(--primaryBackground);
   padding: 35px;
@@ -189,7 +189,7 @@ section {
 .services h3 {
   margin-top: 20px;
 }
-/*---------services-------------*/
+/*---------skills-------------*/
 .grid4 {
   grid-template-columns: repeat(4, 1fr);
   height: 50vh;

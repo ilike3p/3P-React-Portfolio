@@ -1,11 +1,11 @@
 import React from "react"
 import { About } from "../pages/About"
-import { Blog } from "../pages/Blog"
+//import { Blog } from "../pages/Blog"
 import { Contact } from "../pages/Contact"
 import { Counter } from "../pages/Counter"
 import { Portfolio } from "../pages/Portfolio"
-import { Services } from "../pages/Services"
-import { Testimonials } from "../pages/Testimonials"
+import { Skills } from "../pages/Skills"
+//import { Testimonials } from "../pages/Testimonials"
 import { Hero } from "./Hero"
 
 export const Home = () => {
@@ -13,11 +13,9 @@ export const Home = () => {
     <>
       <Hero />
       <About />
-      <Services />
+      <Skills />
       <Counter />
       <Portfolio />
-      <Testimonials />
-      <Blog />
       <Contact />
     </>
   )

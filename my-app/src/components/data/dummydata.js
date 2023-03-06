@@ -10,20 +10,12 @@ export const navlink = [
     text: "About",
   },
   {
-    url: "/services",
-    text: "Services",
+    url: "/skills",
+    text: "Skills",
   },
   {
     url: "/portfolio",
     text: "Portfolio",
-  },
-  {
-    url: "/testimonials",
-    text: "Testimonials",
-  },
-  {
-    url: "/blog",
-    text: "Blog",
   },
   {
     url: "/contact",
@@ -46,7 +38,7 @@ export const about = [
       cover: "./images/man.png",
     },
   ]
-  export const services = [
+  export const skills = [
     {
       id: 1,
       icon: <Settings />,
@@ -130,7 +122,7 @@ export const about = [
     {
       id: 3,
       cover: "../images/port/portfolio.jpeg",
-      name: "Brand",
+      name: "Portfolio",
       category: "Frontend",
       title: "Portfolio",
       link: "https://traypearce.github.io/Portfolio/",
@@ -146,7 +138,7 @@ export const about = [
     {
       id: 5,
       cover: "../images/port/MY buddy.png",
-      name: "My Buddy",
+      name: "My Buddyy",
       category: "Fullstack",
       title: "My Buddy",
     },
@@ -158,6 +150,21 @@ export const about = [
       title: "Planner",
       link: "https://traypearce.github.io/Work-Day-Scheduler/",
     
+    },
+    {
+      id: 5,
+      cover: "../images/port/MY buddy.png",
+      name: "My Buddy",
+      category: "Backend",
+      title: "My Buddy",
+    },
+    {
+      id: 5,
+      cover: "../images/port/superTeam.jpeg",
+      name: "Meme Stocks",
+      category: "Fullstack",
+      title: "Meme Stocks",
+      url: "https://ilike3p.github.io/stocks-meme/",
     },
   ]
   export const testimonials = [
@@ -218,7 +225,6 @@ export const about = [
     {
       icon: <PhoneIphone />,
       text1: "323-535-2164",
-      text2: "0345627891",
     },
     {
       icon: <EmailOutlined />,

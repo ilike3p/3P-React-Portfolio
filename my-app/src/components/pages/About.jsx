@@ -16,7 +16,7 @@ export const About = () => {
                 <Heading title='About Me' />
                 <p>{val.desc}</p>
                 <p>{val.desc1}</p>
-                <button>Download Resume</button>
+                <button>Download CV</button>
                 <button className='primaryBtn'>Download CV</button>
               </div>
             </>
