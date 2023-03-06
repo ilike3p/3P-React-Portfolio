@@ -24,10 +24,10 @@ export const navlink = [
 ]
 export const home = [
   {
-    text: "I'm ",
+    text: "Hi, I'm",
     name: "Tray Pearce",
-    post: "Full Stack Developer that Excels in Backend Development and UI/UX Design ",
-    design: "Web Developer",
+    post: "Web Developer that Excels in both Backend Development and UI/UX Design ",
+    design: "Full Stack Developer",
     desc: "What I do",
   },
 ]
@@ -60,7 +60,7 @@ export const about = [
     {
       id: 4,
       icon: <PieChart />,
-      title: "Node.js",
+      title: "OOP",
       desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
     },
     {
@@ -86,7 +86,7 @@ export const about = [
     {
       id: 2,
       icon: <FavoriteBorder />,
-      num: "30",
+      num: "36",
       title: "PROJECTS COMPLEATED",
     },
     {
@@ -98,18 +98,17 @@ export const about = [
     {
       id: 4,
       icon: <PersonOutlined />,
-      num: "10000",
+      num: "100000",
       title: "LINES OF CODE",
     },
   ]
   export const portfolio = [
     {
       id: 1,
-      cover: "./images/port/weather.jpeg",
+      cover: "https://user-images.githubusercontent.com/39431924/214930559-bd8f6a60-a06a-40c7-944e-0ee4b89b07dd.jpeg",
       name: "Weather Dashboard",
       category: "Frontend",
-      title: "Weather Dashboard",
-      url: "https://traypearce.github.io/Weather-Dashboard/",
+      link: "https://ilike3p.github.io/Its-getting-hot/",
     },
     {
       id: 2,
