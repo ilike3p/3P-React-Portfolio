@@ -24,9 +24,9 @@ export const navlink = [
 ]
 export const home = [
   {
-    text: "Hello, I'm ",
+    text: "I'm ",
     name: "Tray Pearce",
-    post: "Full Stack Developer",
+    post: "Full Stack Developer that Excels in Backend Development and UI/UX Design ",
     design: "Web Developer",
     desc: "What I do",
   },
@@ -42,37 +42,37 @@ export const about = [
     {
       id: 1,
       icon: <Settings />,
-      title: "Creative Design",
+      title: "MERN Stack",
       desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
     },
     {
       id: 2,
       icon: <CropRotate />,
-      title: "Clean Code",
+      title: "JavaScript",
       desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
     },
     {
       id: 3,
       icon: <ViewInAr />,
-      title: "Responsive Design",
+      title: "HTML & CSS",
       desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
     },
     {
       id: 4,
       icon: <PieChart />,
-      title: "Material UI	",
+      title: "Node.js",
       desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
     },
     {
       id: 5,
       icon: <Code />,
-      title: "Material UI Icons",
+      title: "MySQL",
       desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
     },
     {
       id: 6,
       icon: <BarChart />,
-      title: "Awesome Support",
+      title: "UI/UX Design",
       desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
     },
   ]
@@ -80,7 +80,7 @@ export const about = [
     {
       id: 1,
       icon: <CloudOutlined />,
-      num: "001",
+      num: "03",
       title: "HAPPY CLIENTS",
     },
     {
@@ -98,8 +98,8 @@ export const about = [
     {
       id: 4,
       icon: <PersonOutlined />,
-      num: "500",
-      title: "LIENS OF CODE",
+      num: "10000",
+      title: "LINES OF CODE",
     },
   ]
   export const portfolio = [
@@ -144,7 +144,7 @@ export const about = [
     },
     {
       id: 6,
-      cover: "../images/port/planner.jpeg",
+      Img: "https://user-images.githubusercontent.com/39431924/212971239-9507dcca-b20d-49f4-98aa-9c071ddc3c07.jpeg",
       name: "Planner",
       category: "Frontend",
       title: "Planner",
@@ -152,14 +152,14 @@ export const about = [
     
     },
     {
-      id: 5,
+      id: 7,
       cover: "../images/port/MY buddy.png",
       name: "My Buddy",
       category: "Backend",
       title: "My Buddy",
     },
     {
-      id: 5,
+      id: 8,
       cover: "../images/port/superTeam.jpeg",
       name: "Meme Stocks",
       category: "Fullstack",
@@ -167,55 +167,7 @@ export const about = [
       url: "https://ilike3p.github.io/stocks-meme/",
     },
   ]
-  export const testimonials = [
-    {
-      id: 1,
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
-      image: "./images/testimonials/team-1.png",
-      name: "Tray Pearce",
-      post: "Full Stack Developer",
-    },
-    {
-      id: 2,
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
-      image: "./images/testimonials/team-2.png",
-      name: "Alex Ander",
-      post: "Back End Developer",
-    },
-    {
-      id: 3,
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
-      image: "./images/testimonials/team-3.png",
-      name: "GorkCoder",
-      post: "React Developer",
-    },
-  ]
-  export const blog = [
-    {
-      id: 1,
-      title: "Master These Awesome",
-      date: "Jun 27, 2022",
-      author: "Dorian Gray",
-      desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
-      cover: "./images/blog/b1.png",
-    },
-    {
-      id: 2,
-      title: "Best Design Items to Appeal",
-      date: "Jun 27, 2022",
-      author: "Dorian Gray",
-      desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
-      cover: "./images/blog/b2.png",
-    },
-    {
-      id: 3,
-      title: "The 20 Best Lightroom Presets",
-      date: "Jun 27, 2022",
-      author: "Dorian Gray",
-      desc: "Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been",
-      cover: "./images/blog/b3.png",
-    },
-  ]
+
   export const contact = [
     {
       icon: <AddLocationAltOutlined />,

@@ -4,11 +4,10 @@ import Footer from "../common/Footer"
 import { Header } from "../common/Header"
 import { Home } from "../home/Home"
 import { About } from "./About"
-//import { Blog } from "./Blog"
 import { Contact } from "./Contact"
 import { Portfolio } from "./Portfolio"
 import { Skills } from "./Skills"
-//import { Testimonials } from "./Testimonials"
+
 export const Pages = () => {
   return (
     <>
