@@ -105,7 +105,7 @@ export const about = [
   export const portfolio = [
     {
       id: 1,
-      cover: "https://user-images.githubusercontent.com/39431924/214930559-bd8f6a60-a06a-40c7-944e-0ee4b89b07dd.jpeg",
+      cover: "../images/port/weather.jpeg",
       name: "Weather Dashboard",
       category: "Frontend",
       link: "https://ilike3p.github.io/Its-getting-hot/",
@@ -128,7 +128,7 @@ export const about = [
     },
     {
       id: 4,
-      cover: "../images/port/resume.jpeg",
+      cover: "../images/port/darkresume.jpeg",
       name: "Resume",
       category: "Frontend",
       title: "Responsive Resume",
@@ -138,12 +138,12 @@ export const about = [
       id: 5,
       cover: "../images/port/MY buddy.png",
       name: "My Buddyy",
-      category: "Fullstack",
+      category: "Backend",
       title: "My Buddy",
     },
     {
       id: 6,
-      Img: "https://user-images.githubusercontent.com/39431924/212971239-9507dcca-b20d-49f4-98aa-9c071ddc3c07.jpeg",
+      cover: "",
       name: "Planner",
       category: "Frontend",
       title: "Planner",
@@ -154,16 +154,45 @@ export const about = [
       id: 7,
       cover: "../images/port/MY buddy.png",
       name: "My Buddy",
-      category: "Backend",
+      category: "Fullstack",
       title: "My Buddy",
     },
     {
       id: 8,
       cover: "../images/port/superTeam.jpeg",
       name: "Meme Stocks",
-      category: "Fullstack",
+      category: "Frontend",
       title: "Meme Stocks",
       url: "https://ilike3p.github.io/stocks-meme/",
+      
+    },
+    {
+      id: 9,
+      URL: "../images/port/MY buddy.png",
+      name: "My Buddy",
+      category: "Backend",
+      title: "My Buddy",
+    },
+    {
+      id: 10,
+      cover: "../images/port/MY buddy.png",
+      name: "My Buddy",
+      category: "Fullstack",
+      title: "My Buddy",
+    },
+    {
+      id: 11,
+      cover: "../images/port/MY buddy.png",
+      name: "My Buddy",
+      category: "Backend",
+      title: "My Buddy",
+    },
+    {
+      id: 12,
+      cover: "../images/port/MY buddy.png",
+      name: "My Buddy",
+      category: "Frontend",
+      title: "My Buddy",
     },
   ]
 
